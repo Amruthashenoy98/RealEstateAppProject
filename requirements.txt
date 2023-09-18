@@ -1,0 +1,9 @@
+scikit-learn==1.1.1
+pandas==1.4.3
+numpy
+plotly
+wordcloud
+category_encoders
+seaborn
+matplotlib
+xgboost 
