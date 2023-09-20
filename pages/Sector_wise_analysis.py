@@ -34,3 +34,5 @@ def generate_word_cloud(text, sector):
 generate_word_cloud(features_text, target_sector)
 
 
+
+
