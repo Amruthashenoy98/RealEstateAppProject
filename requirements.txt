@@ -1,9 +1,9 @@
 scikit-learn==1.1.1
 pandas==1.4.3
-numpy
-plotly
-wordcloud
-category_encoders
-seaborn
-matplotlib
-xgboost 
+numpy==1.21.5
+plotly==5.9.0
+wordcloud==1.9.2
+category_encoders==2.6.2
+seaborn==0.11.2
+matplotlib==3.5.2
+xgboost==1.7.5
