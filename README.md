@@ -3,6 +3,12 @@
 ### Overview
 This repository contains a comprehensive dataset of real estate properties containing details about houses and flats on sale in Gurgaon City, meticulously collected and organized for various analytical and data-driven applications in the field of real estate, housing, and property management.
 
+### The Project has four modules
+- Analytics module
+- House Price Predictor
+- Apartment recommender
+- Deployment using AWS
+
 ### Dataset Details
 The dataset includes the following columns:
 
@@ -39,12 +45,6 @@ This dataset can be valuable for a wide range of applications, including:
 
 ### Data Source
 The dataset was collected from various real estate listings and sources, and it represents a diverse set of properties from different locations.
-
-### The Project is having 4 modules
-- Analytics module
-- House Price Predictor
-- Apartment recommender
-- Deployment using AWS
 
 
 ### Contribution
