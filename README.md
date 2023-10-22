@@ -16,7 +16,7 @@ The dataset includes the following columns:
 2. `link`: The link or URL associated with the property listing.
 3. `society`: The name of the housing society or community where the property is located.
 4. `price`: The price of the property.
-5. `area`: The area (size) of the property.
+5. `price_per_sqft`: The price per square foot of the property.
 6. `areaWithType`: The area of the property(Carpet area, Built-up area, Super Built-up area) along with a type or unit (e.g., square feet, square meters).
 7. `bedRoom`: The number of bedrooms in the property.
 8. `bathroom`: The number of bathrooms in the property.
@@ -44,7 +44,7 @@ This dataset can be valuable for a wide range of applications, including:
 - And much more!
 
 ### Data Source
-The dataset was collected from various real estate listings and sources, and it represents a diverse set of properties from different locations.
+The dataset was web-scraped from various real estate listings and sources, and it represents a diverse set of properties from different locations of Gurgaon.
 
 
 ### Contribution
