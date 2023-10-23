@@ -1,13 +1,25 @@
-## Real Estate Properties Application
+## Real Estate Properties Application using Machine Learning.
 
 ### Overview
 This repository contains a comprehensive dataset of real estate properties containing details about houses and flats on sale in Gurgaon City, meticulously collected and organized for various analytical and data-driven applications in the field of real estate, housing, and property management.
+This is an end-to-end Machine Learning Project created using Streamlit and deployed in an AWS EC2 instance.
 
-### The Project has four modules
+### The Project has 3 modules
 - Analytics module
 - House Price Predictor
 - Apartment recommender
-- Deployment using AWS
+
+### Glimpse of my website
+#### Analytics page
+![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/d9ff011d-9414-441a-872d-8957a4718f70)
+
+#### Property price predictor
+![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/931ba65c-3f57-4508-84be-95bc99103f53)
+
+#### Apartment Recommender
+![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/951a574a-c873-427a-89a2-8bb520afd99b)
+
+
 
 ### Dataset Details
 The dataset includes the following columns:
@@ -44,7 +56,7 @@ This dataset can be valuable for a wide range of applications, including:
 - And much more!
 
 ### Data Source
-The dataset was web-scraped from various real estate listings and sources, and it represents a diverse set of properties from different locations of Gurgaon.
+The dataset was web-scraped from various real estate listings and sources, and it represents a diverse set of properties from different locations in Gurgaon.
 
 
 ### Contribution
