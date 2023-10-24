@@ -10,16 +10,17 @@ This is an end-to-end Machine Learning Project created using Streamlit and deplo
 - Apartment recommender
 
 ### Glimpse of my website
-#### Analytics page
-![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/d9ff011d-9414-441a-872d-8957a4718f70)
+### <p align="center">Analytics page</p>
 
-#### Property price predictor
-![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/931ba65c-3f57-4508-84be-95bc99103f53)
+![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/722d5656-185e-4a04-b7de-2ed11875456b)
 
-#### Apartment Recommender
-![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/951a574a-c873-427a-89a2-8bb520afd99b)
+### <p align="center">Property price predictor</p>
 
+![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/5fc165e6-8805-4ebf-8cea-de677efcbcda)
 
+### <p align="center">Apartment Recommender</p>
+
+![image](https://github.com/Amruthashenoy98/RealEstateAppProject/assets/48203194/04e6f424-f09a-4a5e-806c-2456faade9a9)
 
 ### Dataset Details
 The dataset includes the following columns:
